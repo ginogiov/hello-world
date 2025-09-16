@@ -1,5 +1,6 @@
 # hello-world
 Repository di prova
 
-Versione modificata.
+This repository is for practicing the GitHub Flow.
+
 
